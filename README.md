@@ -2,7 +2,7 @@
 
 Feel free to take a look around my public repos.
 
-Eventually, you'll be able to visit my [website][https://jacklabbe.com], but as of writing this it's still in development.
+Eventually, you'll be able to visit my [website](https://jacklabbe.com), but as of writing this it's still in development.
 
 
 <!--
