@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi, I'm Jack 👋
+
+[![Website](https://jacklabbe.com)
+
+Feel free to take a look around my public repos.
+
+Eventually, you'll be able to visit my [website][website], but as of writing this it's still in development.
+
 
 <!--
 **j-labbe/j-labbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
