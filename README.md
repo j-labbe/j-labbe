@@ -1,8 +1,10 @@
 ## Hi, I'm Jack 👋
 
-Feel free to take a look around my public repos.
+Feel free to take a look around my public projects!
 
-Eventually, you'll be able to visit my [website](https://jacklabbe.com), but as of writing this it's still in development.
+I work as an independent contractor (for now) building systems to help businesses solve problems. Right now, my largest projects is a cloud-based data management system (unfortunately it must remain in a private repo for security reasons).
+
+Feel free to check out my [website](https://jacklabbe.com) for some more info about me. The source code is right here on GitHub, too!
 
 
 <!--
