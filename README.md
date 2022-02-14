@@ -2,7 +2,9 @@
 
 I work as an independent contractor (for now) building systems to help businesses solve problems.
 
-Feel free to take a look around my public repos, or [check out my website](https://jacklabbe.com).
+Many projects are private, however I can sometimes publish portions here, on my GitHub.
+
+Feel free to take a look around here, or the content on [my website](https://jacklabbe.com).
 
 <!--
 **j-labbe/j-labbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
