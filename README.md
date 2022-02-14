@@ -1,11 +1,8 @@
 ## Hi, I'm Jack 👋
 
-Feel free to take a look around my public projects!
+I work as an independent contractor (for now) building systems to help businesses solve problems.
 
-I work as an independent contractor (for now) building systems to help businesses solve problems. Right now, my largest projects is a cloud-based data management system (unfortunately it must remain in a private repo for security reasons).
-
-Feel free to check out my [website](https://jacklabbe.com) for some more info about me. The source code is right here on GitHub, too!
-
+Feel free to take a look around my public repos, or [check out my website](https://jacklabbe.com).
 
 <!--
 **j-labbe/j-labbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
