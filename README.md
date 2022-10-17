@@ -6,12 +6,12 @@
 
 ```js
 const aboutMe = {
-    languages: [JavaScript, TypeScript, Python, SQL, C, Go, "PHP (Some)"],
+    languages: [JavaScript, TypeScript, Python, SQL],
     technologies: {
         frontEnd: [React, Nextjs, Gatsby, StyledComponents, ...more],
-        backEnd: [Node, Express, Flask],
-        devOps: [AWS, Docker, Route53, NGINX, Azure],
-        databases: [MySQL, SQL Server, SQLite]
+        backEnd: [Node, Express],
+        devOps: [AWS, Docker, Route53, NGINX],
+        databases: [MySQL, SQLite]
     }
 }
 ```
