@@ -1,24 +1,6 @@
 # Hey, I'm Jack 👋
 
-*Freelance Software Engineer & IT Consultant*
-
-[![Linkedin: jack-labbe](https://img.shields.io/badge/-jack--labbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-labbe/)](https://www.linkedin.com/in/jack-labbe/)
-
-```js
-const aboutMe = {
-    languages: [JavaScript, TypeScript, Python, SQL],
-    technologies: {
-        frontEnd: [React, Nextjs, Gatsby, StyledComponents, ...more],
-        backEnd: [Node, Express],
-        devOps: [AWS, Docker, Route53, NGINX],
-        databases: [MySQL, SQLite]
-    }
-}
-```
-
-**_My inbox is always open. Feel free to reach out!_**
-
-
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jack-labbe/).
 <!--
 **j-labbe/j-labbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
